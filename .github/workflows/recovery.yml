@@ -14,9 +14,9 @@ on:
 
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-9.0
-  DEVICE: vince
-  DT_LINK: https://github.com/Bhav06/android_device_xiaomi_vince-twrp.git
-  DT_PATH: device/xiaomi/vince
+  DEVICE: a02
+  DT_LINK: https://github.com/Anstien/android_device_samsung_a02.git
+  DT_PATH: device/samsung/a02
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
